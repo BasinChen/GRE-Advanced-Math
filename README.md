@@ -1,20 +1,24 @@
 <!-- Author : Dongsheng Deng & Liam Huang-->
 <!-- Program Email: elegantlatex2e@gmail.com -->
 
-# ElegantBook
+# 考研高等数学笔记（第一章）
+经过一段时间的复习，出于兴趣爱好（闲着无聊），将笔记整理为电子版，在windows10平台使用LaTeX编写，WinEdt编辑器编辑，XeLaTeX编译选项。
 
-[Homepage](https://elegantlatex.org/) | [Github](https://github.com/ElegantLaTeX/ElegantBook) | [CTAN](https://ctan.org/pkg/elegantbook) | [Download](https://github.com/ElegantLaTeX/ElegantBook/releases) | [Wiki](https://github.com/ElegantLaTeX/ElegantBook/wiki) | [Weibo](https://weibo.com/elegantlatex)
 
-![License](https://img.shields.io/ctan/l/elegantbook.svg)
-![CTAN Version](https://img.shields.io/ctan/v/elegantbook.svg)
-![Github Version](https://img.shields.io/github/release/ElegantLaTeX/ElegantBook.svg)
-![Repo Size](https://img.shields.io/github/repo-size/ElegantLaTeX/ElegantBook.svg)
+本文不用做商用，并尊重张宇老师著作权，尊重张宇老师讲述内容与讲义版权。
 
-ElegantBook is designed for books. Just enjoy it! If you have any questions, suggestions or bug reports, you can create issues, pull requests or contact us at elegantlatex2e@gmail.com.
 
-如果你有其他问题、建议或者报告 bug，可以提交 issues 或者给我们发邮件：elegantlatex2e@gmail.com。
+本文使用Elegant-master书籍模板，来源于【latex科技排班工作室】
 
-**注意：** 由于新版本进行了重构，3.x 版本并不兼容 2.x 版本，如果你想把 2.x 版本的文件转为 3.x 版本，请查看[跨版本转换](https://github.com/ElegantLaTeX/ElegantBook/wiki/%E8%BD%AC%E6%8D%A2)。
+
+对于本文存在的一切问题，欢迎读者批评指正！或将建议发送到 lyc19990729@gmail.com 
+
+
+计划只开源第一章的TeX源代码，其他只用做pdf，共以完善！
+
+
+本部分内容完全开源，请不要将此内容用于利益途径！！！
+
 
 # License
 
